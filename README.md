@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kenedy Jacob</h1>
-<h3 align="center">Software Engineer | Security Researcher</h3>
+<h3 align="center">DevOps Engineer | Security Researcher</h3>
 <p>
   
 - 🌱 I’m currently learning **Python and C++**
